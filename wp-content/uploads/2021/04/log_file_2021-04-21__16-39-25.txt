@@ -1,0 +1,70 @@
+
+---Downloaded files---
+The import files for: Bakes And Cakes Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wordpress
+Data file = /Applications/MAMP/www/wordpress/wp-content/uploads/rara-demo-pack/restaurant-and-cafe-demo-content/content/restaurant.xml
+Widget file = /Applications/MAMP/www/wordpress/wp-content/uploads/rara-demo-pack/restaurant-and-cafe-demo-content/content/restaurant.wie
+Customizer file = /Applications/MAMP/www/wordpress/wp-content/uploads/rara-demo-pack/restaurant-and-cafe-demo-content/content/restaurant.dat
+
+------
+Completed AJAX call number: 1
+[ERROR] Failed to import "Bruschetta(1)" (Fichier média)
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+[ERROR] Failed to import "img9" (Fichier média)
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Right Sidebar : 
+
+Rechercher - No Title - Widget already exists
+Articles récents - No Title - Widget already exists
+Commentaires récents - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Catégories - No Title - Widget already exists
+Méta - No Title - Widget already exists
+Articles récents - Recent Posts - Imported
+
+Footer Widget One : 
+
+Texte - No Title - Imported
+
+Footer Widget Two : 
+
+Texte - No Title - Imported
+
+Footer Widget Three : 
+
+RARA: Social Links - Subscribe &amp; Follow - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
